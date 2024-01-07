@@ -5941,6 +5941,11 @@ vue@^3.2.13:
     "@vue/server-renderer" "3.4.5"
     "@vue/shared" "3.4.5"
 
+vuesax3@^4.2.1:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/vuesax3/-/vuesax3-4.2.1.tgz#bf130cadbfcc7aab7df64540bd6e0dddc2b22e85"
+  integrity sha512-6gEzjx8lrcyCZZ9soMn5caQUJnZgky/iN7LWW8BlgFFl3331fftMe7iQ/+6Me3AryJvSBJ1Vf+lGQeIcyJNwlA==
+
 watchpack@^2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-2.4.0.tgz#fa33032374962c78113f93c7f2fb4c54c9862a5d"
